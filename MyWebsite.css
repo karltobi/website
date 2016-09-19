@@ -1,0 +1,140 @@
+* {
+	background-color:#1a1a1a;
+}
+
+a {
+	text-decoration:none;
+}
+#name {
+	font-family:Verdana;
+	color:#ffffff;
+	text-align:Center;
+	font-size:4em;
+	background-color:#404040;
+}
+
+p {
+	font-family:Arial;
+}
+div:first-child {
+	background-color:#404040;
+	height:200px;
+	margin:auto;
+	border:2px solid #ff5050;
+	border-radius:5px;
+}
+
+#tab1 {
+	height:40px;
+	width:331px;
+	background-color:#404040;
+	position:absolute;
+	border:2px solid #ff5050;
+	margin-left:-2px;
+	margin-top:-5px;
+}
+
+#aboutme {
+	background-color:#404040;
+	text-align:Center;
+	color:#ffffff;
+	font-family:Verdana;
+	margin:center;
+	position:absolute;
+	top:50%;
+	left:0;
+	right:0;
+	margin-top:-9px;
+}
+
+#tab2 {
+	height:40px;
+	width:332px;
+	background-color:#404040;
+	position:absolute;
+	border:2px solid #ff5050;
+	margin-left:331px;
+	margin-top:-5px;
+}
+
+#recommendations {
+	background-color:#404040;
+	text-align:Center;
+	color:#ffffff;
+	font-family:Verdana;
+	margin:center;
+	position:absolute;
+	top:50%;
+	left:0;
+	right:0;
+	margin-top:-9px;
+}
+
+#tab3 {
+	height:40px;
+	width:332px;
+	background-color:#404040;
+	position:absolute;
+	border:2px solid #ff5050;
+	margin-left:664px;
+	margin-top:-5px;
+}
+
+#blog {
+	background-color:#404040;
+	text-align:Center;
+	color:#ffffff;
+	font-family:Verdana;
+	margin:center;
+	position:absolute;
+	top:50%;
+	left:0;
+	right:0;
+	margin-top:-9px;
+}
+
+#tab4 {
+	height:40px;
+	width:332px;
+	background-color:#404040;
+	position:absolute;
+	border:2px solid #ff5050;
+	margin-left:996px;
+	margin-top:-5px;
+}
+
+#apps {
+	background-color:#404040;
+	text-align:Center;
+	color:#ffffff;
+	font-family:Verdana;
+	margin:center;
+	position:absolute;
+	top:50%;
+	left:0;
+	right:0;
+	margin-top:-9px;
+}
+
+#tab5 {
+	height:40px;
+	width:331px;
+	background-color:#404040;
+	position:absolute;
+	border:2px solid #ff5050;
+	margin-left:1327px;
+	margin-top:-5px;
+}
+
+#contact {
+	background-color:#404040;
+	text-align:Center;
+	color:#ffffff;
+	font-family:Verdana;
+	margin:center;
+	position:absolute;
+	top:50%;
+	left:0;
+	right:0;
+	margin-top:-9px;
+}
